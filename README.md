@@ -4,6 +4,8 @@ Retail Analysis with Walmart Data
 
 Data manipulation and exploration using SQL
 
+Data Viz using Tableau - https://public.tableau.com/app/profile/keyur6346/viz/RetailAnalysiswithWalmartdata/RetailAnalysiswithWalmartData
+
 ## Description of Dataset
 This is the historical data which covers sales from 2010-02-05 to 2012-11-01. Within this file you will find the following fields:
 
